@@ -55,7 +55,7 @@ WPサイト更新説明書
 **テキストエディタ** ： ＜p＞タグを利用
 
 ## 大見出し
-![h2](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/h2.jpg)  
+![h2](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/h2.png)  
 **ビジュアルエディタ** ： 文をドラッグで選択し、「段落 ＞ 見出し2」を選択  
 **テキストエディタ** ： ＜h2＞タグを利用
 
