@@ -79,6 +79,7 @@ WPサイト更新説明書
 **テキストエディタ** ： ``` <a href="" target="_blank"><img src="" width="" height="" alt=""></a>```
 
 ## 引用文
+![bq](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/bq.png)  
 **ビジュアルエディタ** : 文をドラッグで選択し、「”」アイコンを選択。スタイルが変われば適用されていることになる  
 **テキストエディタ** ： ```<blockquote>この中に引用テキスト</blockquote>```
 - テキストや画像を引用を引用した際は、引用元を記載する。
