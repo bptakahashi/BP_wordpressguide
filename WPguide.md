@@ -65,7 +65,7 @@ WPサイト更新説明書
 **テキストエディタ** ： ＜h3＞タグを利用
 
 ## テキストリンク
-![a](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/1.png)  
+![a](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/a.png)  
 **ビジュアルエディタ** ： 文をドラッグで選択し、「リンクの挿入（⌘+K）」を選択。外部サイトへのリンクの際などには、設定アイコンから詳細画面を開き「リンクを新しいタブで開く」にチェックをつける  
 **テキストエディタ** ： ＜a＞タグを利用
 
