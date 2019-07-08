@@ -60,10 +60,12 @@ WPサイト更新説明書
 **テキストエディタ** ： ＜h2＞タグを利用
 
 ## 小見出し
+![h3](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/h3.png)  
 **ビジュアルエディタ** ： 文をドラッグで選択し、「段落 ＞ 見出し3」を選択  
 **テキストエディタ** ： ＜h3＞タグを利用
 
 ## テキストリンク
+![1](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/1.png)  
 **ビジュアルエディタ** ： 文をドラッグで選択し、「リンクの挿入（⌘+K）」を選択。外部サイトへのリンクの際などには、設定アイコンから詳細画面を開き「リンクを新しいタブで開く」にチェックをつける  
 **テキストエディタ** ： ＜a＞タグを利用
 
