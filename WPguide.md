@@ -66,7 +66,7 @@ WPサイト更新説明書
 
 ## テキストリンク
 ![a](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/a.png)  
-**ビジュアルエディタ** ： 文をドラッグで選択し、「リンクの挿入（⌘+K）」を選択。外部サイトへのリンクの際などには、設定アイコンから詳細画面を開き「リンクを新しいタブで開く」にチェックをつける  
+**ビジュアルエディタ** ： 文をドラッグで選択し、エディタ上部にあるチェーンアイコンの【リンクの挿入（⌘+K)】を選択。外部サイトへのリンクの際などには、設定アイコンから詳細画面を開き「リンクを新しいタブで開く」にチェックをつける  
 **テキストエディタ** ： ＜a＞タグを利用
 
 ## 画像の追加（リンクなし）
@@ -91,9 +91,15 @@ WPサイト更新説明書
 
 
 ## 色付き背景
-![code](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color1.png)  
-![code](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color1.png)  
-![code](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color1.png)  
+![color1](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color1.png)  
+![color2](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color2.png)  
+![color3](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color3.png)  
+**ビジュアルエディタ** : 文をドラッグで選択し、エディタ上部にある【スタイル ▼】から選択する
+  - bg_gray：グレーの背景
+  - bg_yellow：黄色の背景
+  - bg_green：緑色の背景
+
+**テキストエディタ** : 何かかしらのタグで囲んで、classをあててください。
 
 
 ---
