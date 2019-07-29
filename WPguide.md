@@ -89,6 +89,13 @@ WPサイト更新説明書
 **ビジュアルエディタ** : 文（ソース）をドラッグで選択し、「コードブロック」から該当の言語を選択する。スタイルが変われば適用されていることになる  
 **テキストエディタ** : 現状preとcodeでのスタイルを用意していません
 
+
+## 色付き背景
+![code](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color1.png)  
+![code](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color1.png)  
+![code](https://github.com/bptakahashi/BP_wordpressguide/blob/master/img/color1.png)  
+
+
 ---
 
 # 補足
